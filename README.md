@@ -30,6 +30,7 @@ A simple rule-based FAQ chatbot built with **TF-IDF** vectorization and **cosine
 ### 1. Clone the repository
 
 git clone https://github.com/SirajM92Dev/CodeAlpha_Chatbot-for-FAQs.git
+
 cd CodeAlpha_Chatbot-for-FAQs
 
 ### 2. Install dependencies
