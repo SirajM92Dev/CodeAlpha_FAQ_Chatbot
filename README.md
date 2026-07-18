@@ -29,7 +29,7 @@ A simple rule-based FAQ chatbot built with **TF-IDF** vectorization and **cosine
 
 ### 1. Clone the repository
 
-git clone https://github.com/SirajM92Dev/CodeAlpha_Chatbot-for-FAQs.git
+git clone https://github.com/SirajM92Dev/CodeAlpha_FAQ_Chatbot.git
 
 cd CodeAlpha_Chatbot-for-FAQs
 
@@ -39,9 +39,9 @@ pip install -r requirements.txt
 
 ### 3. Run the notebook
 
-Open `Internship_project_1.ipynb` in Jupyter Notebook / JupyterLab and run all cells.
+Open faq_chatbot_pipeline.ipynb` in Jupyter Notebook / JupyterLab and run all cells.
 
-jupyter notebook Internship_project_1.ipynb
+jupyter notebook faq_chatbot_pipeline.ipynb
 
 The notebook will automatically download the required NLTK data (`punkt`, `stopwords`) on first run.
 
